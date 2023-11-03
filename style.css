@@ -18,12 +18,12 @@ body {
 }
 
 h1 {
-    font-size: 56px; /* Tamaño de fuente para PC */
+    font-size: 76px; /* Tamaño de fuente para PC */
 }
 
 .subtitle {
-    font-size: 30px; /* Tamaño de fuente para PC */
-    margin-top: 20px;
+    font-size: 40px; /* Tamaño de fuente para PC */
+    margin-top: 30px;
 }
 
 .newsletter-list {
@@ -32,29 +32,29 @@ h1 {
 }
 
 .newsletter-list li {
-    font-size: 22px; /* Tamaño de fuente para PC */
-    margin-top: 10px;
+    font-size: 30px; /* Tamaño de fuente para PC */
+    margin-top: 20px;
     text-transform: uppercase;
 }
 
 /* Media Query para pantallas de hasta 768px (tamaño de pantalla móvil) */
 @media (max-width: 768px) {
     h1 {
-        font-size: 24px; /* Tamaño de fuente para móvil */
+        font-size: 34px; /* Tamaño de fuente para móvil */
     }
 
     .subtitle {
-        font-size: 16px; /* Tamaño de fuente para móvil */
+        font-size: 36px; /* Tamaño de fuente para móvil */
     }
 
     .newsletter-list li {
-        font-size: 14px; /* Tamaño de fuente para móvil */
+        font-size: 24px; /* Tamaño de fuente para móvil */
     }
 }
 /* ... (código CSS anterior) */
 
 .authors {
-    font-size: 16px; /* Tamaño de fuente para PC */
+    font-size: 26px; /* Tamaño de fuente para PC */
     margin-top: 10px;
 }
 
@@ -83,13 +83,13 @@ button:hover {
 
 .pixel-font {
     font-family: 'Pixel', sans-serif; /* Cambiar a la fuente pixeleada deseada */
-    font-size: 44px; /* Tamaño de fuente para PC */
+    font-size: 48px; /* Tamaño de fuente para PC */
 }
 
 /* ... (código CSS anterior) */
 
 #xenodataText {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .hidden {
